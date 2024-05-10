@@ -1,4 +1,4 @@
-# Corpcomment - Feedback application
+# CorpComment - Feedback application
 
 This is a React.JS project with Typescript. </br>
 The application submit your feedback to an API that maintain itself there for some time and then desapear.
