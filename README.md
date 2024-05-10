@@ -1,3 +1,22 @@
+# Corpcomment - Feedback application
+
+This is a React.JS project with Typescript. </br>
+The application submit your feedback to an API that maintain itself there for some time and then desapear.
+
+![image](https://github.com/WPSV/Counter/assets/57459858/911f759f-1f07-4e17-8f2d-790bc29cb979)
+
+Project created with Vite
+
+Dependencies:
+
+Typescript <br />
+Zustand </br>
+Radix UI / React Icons </br>
+Eslint
+
+![image](https://github.com/WPSV/FeedbackApp/assets/57459858/d8d6779d-5c6c-4d35-ad7c-7cab00de56e1)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -6,22 +25,4 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- 
